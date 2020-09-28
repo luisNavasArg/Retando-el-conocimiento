@@ -1,0 +1,19 @@
+{
+  "name": "reactconnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisNavasArg/Retando-el-conocimiento.git"
+  },
+  "author": "luisNavasArg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisNavasArg/Retando-el-conocimiento/issues"
+  },
+  "homepage": "https://github.com/luisNavasArg/Retando-el-conocimiento#readme"
+}
